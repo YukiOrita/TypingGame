@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{C253BD32-B2CA-8E58-8F8D-016BFA08A8B9}") = "TypingGame", "Assembly-CSharp.csproj", "{FB9C7AA5-A79B-B4FB-C9F6-48893EB1EFC7}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingGame", "Assembly-CSharp.csproj", "{FB9C7AA5-A79B-B4FB-C9F6-48893EB1EFC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

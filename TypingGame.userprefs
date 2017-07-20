@@ -1,16 +1,17 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Score1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ChangeSceneToScore.cs">
     <Files>
-      <File FileName="Assets/Script/TypingObject.cs" Line="35" Column="24" />
-      <File FileName="Assets/dictionary.txt" Line="28" Column="15" />
-      <File FileName="Assets/Script/TypingSystem.cs" Line="53" Column="35" />
+      <File FileName="Assets/Script/SceneChange2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ChangeSceneToScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TypingSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TypingObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/dictionary.txt" Line="1" Column="1" />
       <File FileName="Assets/Script/SE.cs" Line="1" Column="1" />
-      <File FileName="Assets/Script/SceneChange.cs" Line="20" Column="70" />
-      <File FileName="Assets/Script/TimeScript.cs" Line="6" Column="28" />
-      <File FileName="Assets/Script/ChangeSceneToScore.cs" Line="22" Column="55" />
-      <File FileName="Assets/Script/Score.cs" Line="23" Column="18" />
-      <File FileName="Assets/Script/Score1.cs" Line="14" Column="36" />
+      <File FileName="Assets/Script/SceneChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TimeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Score.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Score1.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

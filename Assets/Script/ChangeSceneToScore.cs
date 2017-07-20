@@ -8,7 +8,7 @@ public class ChangeSceneToScore : MonoBehaviour {
 	void Start () {
 	
 		//DelayMethodを3.5秒後に呼び出す
-		Invoke("DelayMethod", 10f);
+		Invoke("DelayMethod", 60f);
 	}
 	
 	// Update is called once per frame

@@ -5,6 +5,7 @@ public class SE : MonoBehaviour {
 
 	public AudioClip audioClip;
 	AudioSource audioSource;
+	public 
 
 	// Use this for initialization
 	void Start () {

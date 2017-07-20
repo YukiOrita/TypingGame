@@ -4,7 +4,7 @@ using System.Collections;
 public class Dictionary : MonoBehaviour {
 
 	public TextAsset resouce;
-	string[] words;
+	public string[] words;
 	public string GetRandomWord(){
 		return words[Random.Range(0, words.Length)];
 	}
